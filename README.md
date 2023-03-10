@@ -1,21 +1,68 @@
-# This is a large heading
-## This is a smaller heading
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poetâ€™s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
-- This is
-- an unordered
-- list
-1. This is
-2. an ordered
-3. list
-Here is `some code` in the middle of a sentence.
-```
-This is
-a block
-of code
-```
-Here is how you make [a link](https://www.wikipedia.org/).
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg\
-)
+# UNIX kurs
+### Sadrzaj
+
+Postoji 4 poglavlja, svako sa testom na kraju 
+
+### Prvo poglavlje 
+
+Osnovno o Unixu: 
+-*bash* komande
+-osnove *CLI* 
+
+## Drugo poglavlje 
+
+U ovom poglavlju se radi 
+1. pajpovanje
+2. *make* funkcija
+3. srčovanje
+
+## github 
+
+Naslovi se otvaraju preko [naslovi](  GNU nano 4.9                       README.md                        Modified
+# UNIX kurs
+### Sadrzaj
+
+Postoji 4 poglavlja, svako sa testom na kraju
+
+### Prvo poglavlje
+
+Osnovno o Unixu:
+-*bash* komande
+-osnove *CLI*
+
+## Drugo poglavlje
+
+U ovom poglavlju se radi
+1. pajpovanje
+2. *make* funkcija
+3. srčovanje
+
+## github
+
+Naslovi se otvaraju preko [naslovi](https://naslovi.net)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O Write Out ^W Where Is  ^K Cut Text  ^J Justify   ^C Cur Pos
+^X Exit      ^R Read File ^\ Replace   ^U Paste Text^T To Spell  ^_ Go To Line
+ 
+
